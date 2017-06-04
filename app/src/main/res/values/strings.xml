@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuestAnswer</string>
+    <string name="question_content_hint">Enter a description for the question.</string>
+</resources>
